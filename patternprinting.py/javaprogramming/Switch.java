@@ -12,7 +12,7 @@ public class Switch{
             break;
             case "monday": System.out.println("practice python");
             break;                         
-            case "tuesday": System.out.println("git and github");
+            case "tuesday": System.out.println("study git and github");
             break;           
             case "wednesday": System.out.println("learn java");
             break;           
